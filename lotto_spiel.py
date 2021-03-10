@@ -32,4 +32,5 @@ def main():
     lotto_spiel()
     verabschiedung()
 
+
 main()
